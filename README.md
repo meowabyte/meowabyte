@@ -6,7 +6,7 @@ Welcome to my profile and enjoy my projects! ♥️
 I'm a creator of various more or less popular projects that bring entertainment and comfort from doing day-to-day tasks!
 
 Including but not limited to:
-- [Discord GIF Validator](https://github.com/meowabyte/gif-validator) - Validates and then sorts broken saved GIFs on popular chatting platform - Discord;
+- [Discord GIF Validator](https://codeberg.org/meowabyte/gif-validator) - Validates and then sorts broken saved GIFs on popular chatting platform - Discord;
 - [PAK Patcher](https://github.com/meowabyte/pak-patcher) - Utility tool for viewing, modifying and patching .PAK files easily with ability to add custom patches and filters! Often used for editing resources of Chromium-based browsers!
 - [GM Runtime Browser](https://github.com/meowabyte/gm-runtime-browser) - Website that allows in simple and nice UI to browse current as well as legacy versions of GameMaker Studio runners! Used for community-made ports of games made in GameMaker. 
 
