@@ -10,7 +10,7 @@ Including but not limited to:
 - [PAK Patcher](https://github.com/meowabyte/pak-patcher) - Utility tool for viewing, modifying and patching .PAK files easily with ability to add custom patches and filters! Often used for editing resources of Chromium-based browsers!
 - [GM Runtime Browser](https://github.com/meowabyte/gm-runtime-browser) - Website that allows in simple and nice UI to browse current as well as legacy versions of GameMaker Studio runners! Used for community-made ports of games made in GameMaker. 
 
-I'm also a creator of an amazing website containing even more info about me! - [meowabyte.lol](https://meowabyte.lol)
+I'm also a creator of an amazing website containing even more info about me! - [meowa.site](https://meowa.site)
 
 ## Something about me
 
@@ -21,7 +21,7 @@ I'm also a creator of an amazing website containing even more info about me! - [
 
 ## How can I contact you?
 
-For contact, you can reach me through ways listed on [meowabyte.lol](https://meowabyte.lol)!
+For contact, you can reach me through ways listed on [meowa.site](https://meowa.site)!
 
 ## I support these (And You Should too!)
 Please if it's applying to you, sign these up. It will help changing the world for better! If you cannot sign these up, please at least share it around so someone who can sign it will do it instead!
