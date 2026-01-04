@@ -1,6 +1,8 @@
-<img title="Avatar" src="https://avatars.githubusercontent.com/u/47297843" height="128" />
+<p align=center>
+  <img title="Avatar" src="https://avatars.githubusercontent.com/u/47297843" height=182 />
+  <h1 align=center>meowabyte</h1>
+</p>
 
-# meowabyte
 Welcome to my profile and enjoy my projects! ♥️
 
 I'm a creator of various more or less popular projects that bring entertainment and comfort from doing day-to-day tasks!
@@ -12,18 +14,19 @@ Including but not limited to:
 
 I'm also a creator of an amazing website containing even more info about me! - [meowa.site](https://meowa.site)
 
-## Something about me
+<br><h2 align=center>About me</h2>
 
 - 👋 I'm 20 year old! (2005)
 - 📊 I like to calculate various data, make analytics of them and turn them into nice graph
 - 👾 I tend to experiment with inner workings of various apps and websites to help find potential vulnerabilities in them!
 - 🎨 In the free time I also learn video editing which I show on my [YouTube channel](https://youtube.com/@meowabyte), game making as well as making music!
 
-## How can I contact you?
+<br><h2 align=center>How to contact you?</h2>
 
-For contact, you can reach me through ways listed on [meowa.site](https://meowa.site)!
+For a contact, you can reach me through ways listed on [meowa.site](https://meowa.site)!
 
-## I support these (And You Should too!)
+<br><h2 align=center>Supporting these!</h2>
+
 Please if it's applying to you, sign these up. It will help changing the world for better! If you cannot sign these up, please at least share it around so someone who can sign it will do it instead!
 
 - [Fight Chat Control (fightchatcontrol.eu)](https://fightchatcontrol.eu/) - "The "Chat Control" proposal would mandate scanning of all private digital communications, including encrypted messages and photos. This threatens fundamental privacy rights and digital security for all EU citizens."
