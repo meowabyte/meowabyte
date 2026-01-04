@@ -1,5 +1,5 @@
 <p align=center>
-  <img title="Avatar" src="https://avatars.githubusercontent.com/u/47297843" height=182 />
+  <img src="https://wsrv.nl/?url=avatars.githubusercontent.com/u/47297843&w=182&h=182&mask=circle&fit=cover&mtrim" />
   <h1 align=center>meowabyte</h1>
 </p>
 
